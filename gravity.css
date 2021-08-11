@@ -1,0 +1,17 @@
+body{
+    margin: 0
+    
+}
+
+
+canvas{
+    margin-top: 5%;
+    border: 1px solid #000000;
+    background-color: #bad9fa;
+}
+
+div{
+    font-size: 20px;
+    text-align: center;
+    background: #bad9fa;
+}
